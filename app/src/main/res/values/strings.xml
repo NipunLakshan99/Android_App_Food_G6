@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My 01</string>
+    <string name="viewo">View Orders</string>
+    <string name="ressnacks">Snacks</string>
+    <string name="reschinese">Chinese</string>
+    <string name="resindian">Indian</string>
+    <string name="resbreadandroti">Bread/Roti</string>
+    <string name="resdessert">Dessert</string>
+    <string name="hotbuttbacorn">Hot Butter Baby corn</string>
+    <string name="hotbuttprawns">Hot butter Prawns</string>
+    <string name="prawingarli">Prawns in Garlic</string>
+    <string name="hotroasgarprawns">Hot Roasted Garlic Prawns</string>
+    <string name="sweeandsourchicken">Sweet and Sour chicken</string>
+    <string name="hotbuttercuttfish">Hot Butter Cuttle fish</string>
+</resources>
