@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_App_G6</string>
+    <string name="MProfile">Manage Profile</string>
+    <string name="Mlastname">Last Name</string>
+    <string name="RePass">Enter your password below. We are just being extra safe.</string>
+    <string name="ResetPass">Reset Password</string>
+    <string name="ReEmail">Email</string>
+    <string name="NewMemphone">Phone :</string>
+    <string name="NemMem">New Member</string>
+    <string name="SigninM">Sign In</string>
+    <string name="SignPass">Password</string>
+    <string name="PayCno">Card Number</string>
+</resources>
